@@ -1,0 +1,12 @@
+.doodle-jump {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: Arial, sans-serif;
+}
+
+.doodle-jump canvas {
+  background-color: #f0f0f0; /* Light gray background for the canvas */
+  border: 2px solid #ccc; /* Light gray border */
+}
